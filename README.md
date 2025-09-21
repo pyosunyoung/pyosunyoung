@@ -14,6 +14,11 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/redux%20toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />&nbsp
+</div>
+
 <br>
 
 
@@ -42,16 +47,15 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
- 
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
 </div>
 
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:tjsdudtbvj12@naver.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/tjsdudtbvj12@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
 </div>
