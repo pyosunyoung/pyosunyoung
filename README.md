@@ -2,7 +2,6 @@
 
 > **서버부터 웹과 앱까지 직접 만들고, 실제 기기와 사용 환경에서 끝까지 검증합니다.**
 
----
 
 ## 🛠 Tech Stack
 
@@ -32,7 +31,6 @@
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
----
 
 ## 🚆 Work Experience
 
@@ -52,7 +50,6 @@
 
 <sub>회사 프로젝트라 소스코드는 비공개입니다. 상세 설계는 지원 시 포트폴리오로 공유합니다.</sub>
 
----
 
 ## 📱 Personal Project
 
@@ -67,8 +64,6 @@
 - **인증:** Redis Lua Script로 토큰 재발급 동시 요청 경합 해결
 - **알림:** 앱을 내려도(백그라운드) 알림이 도착하도록 STOMP와 FCM 경로 분리, 0/4 → 4/4
 - **운영:** 월 $10 VM 한 대에서 CI/CD, 암호화 백업, 외부 모니터링까지 직접 구축
-
----
 
 ## 📫 Contact
 
